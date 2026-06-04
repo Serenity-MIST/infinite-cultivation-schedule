@@ -1,0 +1,6 @@
+{
+  "name": "Schedule Companion",
+  "description": "Cultivation scheduler companion tracking bi-weekly events, realms, pill shops, and daily progress targets with elegant interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
